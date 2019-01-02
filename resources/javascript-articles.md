@@ -16,3 +16,4 @@
 - [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 - [Building a React-esque component using vanilla javascript](https://medium.com/@bluepnume/building-a-react-esque-component-using-vanilla-javascript-ddc99e76b867)
 - [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+- [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
