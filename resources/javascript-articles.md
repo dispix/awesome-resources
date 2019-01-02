@@ -14,3 +14,4 @@
 - [ES6 journey through design patterns](https://notes.devlabs.bg/es6-journey-through-design-patterns-1970f5eaa9d6)
 - [Arrow Functions in Class Properties Might Not Be As Great As We Think](https://medium.com/@charpeni/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think-3b3551c440b1)
 - [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- [Building a React-esque component using vanilla javascript](https://medium.com/@bluepnume/building-a-react-esque-component-using-vanilla-javascript-ddc99e76b867)
