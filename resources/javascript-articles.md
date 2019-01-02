@@ -1,4 +1,4 @@
-## Javascript
+## Javascript articles
 
 ---
 
