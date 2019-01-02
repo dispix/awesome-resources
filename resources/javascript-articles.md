@@ -11,3 +11,4 @@
 - [Implementing JavaScript Functors and Monads](https://medium.com/front-end-weekly/implementing-javascript-functors-and-monads-a87b6a4b4d9a)
 - [Alternative to JavaScript’s switch statement with a functional twist](https://codeburst.io/alternative-to-javascripts-switch-statement-with-a-functional-twist-3f572787ba1c)
 - [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
+- [ES6 journey through design patterns](https://notes.devlabs.bg/es6-journey-through-design-patterns-1970f5eaa9d6)
