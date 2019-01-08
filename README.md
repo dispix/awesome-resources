@@ -19,5 +19,6 @@ Awesome resources: libraries, demo projects and more !
 - [React videos](./resources/react-videos.md)
 - [Rust projects](./resources/rust-projects.md)
 - [Typescript articles](./resources/typescript-articles.md)
+- [Typescript videos](./resources/typescript-videos.md)
 - [Vim articles](./resources/vim-articles.md)
 - [Web articles](./resources/web-articles.md)
