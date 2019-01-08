@@ -9,7 +9,7 @@ Awesome resources: libraries, demo projects and more !
 - [Graph articles](./resources/graph-articles.md)
 - [Graphql articles](./resources/graphql-articles.md)
 - [Javascript articles](./resources/javascript-articles.md)
-- [Machine-learing articles](./resources/machine-learning-articles.md)
+- [Machine-learning articles](./resources/machine-learning-articles.md)
 - [Misc articles](./resources/misc-articles.md)
 - [Misc projects](./resources/misc-projects.md)
 - [Node articles](./resources/node-articles.md)
