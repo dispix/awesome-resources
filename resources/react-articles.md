@@ -12,3 +12,4 @@
 - [Async Generators as an alternative to State Management](https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca)
 - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
 - [The Road to Universal Components at Major League Soccer](https://labs.mlssoccer.com/the-road-to-universal-components-at-major-league-soccer-eeb7aac27e6c)
+- [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
