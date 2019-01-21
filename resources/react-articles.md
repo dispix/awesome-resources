@@ -14,3 +14,4 @@
 - [The Road to Universal Components at Major League Soccer](https://labs.mlssoccer.com/the-road-to-universal-components-at-major-league-soccer-eeb7aac27e6c)
 - [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
 - [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/)
+- [How React Native constructs app layouts](https://medium.freecodecamp.org/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055)
