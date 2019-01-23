@@ -16,3 +16,4 @@
 - [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/)
 - [How React Native constructs app layouts](https://medium.freecodecamp.org/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055)
 - [React components naming convention](https://hackernoon.com/react-components-naming-convention-%EF%B8%8F-b50303551505)
+- [Deconstructing the React Component](https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/)
