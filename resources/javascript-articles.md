@@ -20,3 +20,4 @@
 - [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 - [Broken Promises](https://medium.com/@avaq/broken-promises-2ae92780f33)
 - [Coding Your First Algorithm](https://medium.com/@js_tut/coding-your-first-algorithm-bc0fc2a4e862)
+- [Service workers: the little heroes behind Progressive Web Apps](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16)
