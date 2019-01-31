@@ -19,3 +19,4 @@
 - [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
 - [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 - [Broken Promises](https://medium.com/@avaq/broken-promises-2ae92780f33)
+- [Coding Your First Algorithm](https://medium.com/@js_tut/coding-your-first-algorithm-bc0fc2a4e862)
