@@ -22,3 +22,4 @@
 - [Coding Your First Algorithm](https://medium.com/@js_tut/coding-your-first-algorithm-bc0fc2a4e862)
 - [Service workers: the little heroes behind Progressive Web Apps](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16)
 - [Let’s make this game with JavaScript](https://blog.usejournal.com/lets-make-this-game-with-javascript-5e2b18da076c)
+- [Monorepo setup with Lerna and Yarn workspaces](https://medium.com/trabe/monorepo-setup-with-lerna-and-yarn-workspaces-5d747d7c0e91)
