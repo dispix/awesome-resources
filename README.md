@@ -5,6 +5,7 @@ Awesome resources: libraries, demo projects and more !
 ## Topics
 
 - [Agile articles](./resources/agile-articles.md)
+- [CSS articles](./resources/css-articles.md)
 - [Git articles](./resources/git-articles.md)
 - [Graph articles](./resources/graph-articles.md)
 - [Graphql articles](./resources/graphql-articles.md)
