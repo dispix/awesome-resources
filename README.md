@@ -11,6 +11,7 @@ Awesome resources: libraries, demo projects and more !
 - [Graphql articles](./resources/graphql-articles.md)
 - [Javascript articles](./resources/javascript-articles.md)
 - [Machine-learning articles](./resources/machine-learning-articles.md)
+- [Management videos](./resources/management-videos.md)
 - [Misc articles](./resources/misc-articles.md)
 - [Misc projects](./resources/misc-projects.md)
 - [Node articles](./resources/node-articles.md)
