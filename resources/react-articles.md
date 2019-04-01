@@ -19,3 +19,4 @@
 - [Deconstructing the React Component](https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/)
 - [Introduction to abortable async functions for React with hooks](https://itnext.io/introduction-to-abortable-async-functions-for-react-with-hooks-768bc72c0a2b)
 - [Setting up i18n with TypeScript in Next JS Project](https://theleakycauldronblog.com/blog/setting-up-i18n-with-typescript-in-next-js-project/)
+- [This benchmark is indeed flawed](https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f)
