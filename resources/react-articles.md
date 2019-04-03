@@ -21,3 +21,4 @@
 - [Setting up i18n with TypeScript in Next JS Project](https://theleakycauldronblog.com/blog/setting-up-i18n-with-typescript-in-next-js-project/)
 - [This benchmark is indeed flawed](https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f)
 - [Application State Management](https://kentcdodds.com/blog/application-state-management)
+- [How To Use an IntersectionObserver in a React Hook](https://medium.com/the-non-traditional-developer/how-to-use-an-intersectionobserver-in-a-react-hook-9fb061ac6cb5)
