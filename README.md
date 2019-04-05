@@ -4,6 +4,7 @@ Awesome resources: libraries, demo projects and more !
 
 ## Topics
 
+- [Agile videos](./resources/agile-videos.md)
 - [Agile articles](./resources/agile-articles.md)
 - [CSS articles](./resources/css-articles.md)
 - [Design articles](./resources/design-articles.md)
