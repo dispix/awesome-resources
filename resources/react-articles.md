@@ -22,3 +22,4 @@
 - [This benchmark is indeed flawed](https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f)
 - [Application State Management](https://kentcdodds.com/blog/application-state-management)
 - [How To Use an IntersectionObserver in a React Hook](https://medium.com/the-non-traditional-developer/how-to-use-an-intersectionobserver-in-a-react-hook-9fb061ac6cb5)
+- [How to Achieve Reusability with React Components](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0)
