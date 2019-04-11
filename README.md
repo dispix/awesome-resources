@@ -21,6 +21,7 @@ Awesome resources: libraries, demo projects and more !
 - [Misc projects](./resources/misc-projects.md)
 - [Node articles](./resources/node-articles.md)
 - [Node documentation](./resources/node-documentation.md)
+- [Programming articles](./resources/programming-articles.md)
 - [Programming videos](./resources/programming-videos.md)
 - [React articles](./resources/react-articles.md)
 - [React projects](./resources/react-projects.md)
