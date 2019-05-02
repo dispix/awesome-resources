@@ -7,3 +7,4 @@
 - [React + Sanctuary](https://codesandbox.io/s/8kwpv0r3w9)
 - [React-peer](https://github.com/madou/react-peer)
 - [PizzaQL](https://github.com/pizzaql/pizzaql)
+- [React useEffect vs useLayoutEffect](https://codesandbox.io/s/2p2nnyryly)
