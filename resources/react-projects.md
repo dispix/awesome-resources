@@ -8,3 +8,4 @@
 - [React-peer](https://github.com/madou/react-peer)
 - [PizzaQL](https://github.com/pizzaql/pizzaql)
 - [React useEffect vs useLayoutEffect](https://codesandbox.io/s/2p2nnyryly)
+- [Hooks workshop](https://github.com/ReactTraining/hooks-workshop)
