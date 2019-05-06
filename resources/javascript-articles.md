@@ -24,3 +24,4 @@
 - [Let’s make this game with JavaScript](https://blog.usejournal.com/lets-make-this-game-with-javascript-5e2b18da076c)
 - [Monorepo setup with Lerna and Yarn workspaces](https://medium.com/trabe/monorepo-setup-with-lerna-and-yarn-workspaces-5d747d7c0e91)
 - [Don't Build That App!](https://formidable.com/blog/2019/no-build-step/)
+- [Easy Automatic npm Publishes](https://blog.npmjs.org/post/184553141742/easy-automatic-npm-publishes)
