@@ -4,3 +4,4 @@
 - [How Airbnb Is Using React Native](https://www.youtube.com/watch?v=8qCociUB6aQ)
 - [Advanced React Component Patterns workshop](https://www.youtube.com/watch?v=SuzutbwjUp8)
 - [A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+- [Advanced React Component Patterns workshop](https://www.youtube.com/watch?v=SuzutbwjUp8)
