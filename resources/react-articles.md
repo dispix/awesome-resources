@@ -24,3 +24,4 @@
 - [How To Use an IntersectionObserver in a React Hook](https://medium.com/the-non-traditional-developer/how-to-use-an-intersectionobserver-in-a-react-hook-9fb061ac6cb5)
 - [How to Achieve Reusability with React Components](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0)
 - [Data fetching in React the functional way powered by TypeScript, io-ts & fp-ts](https://dev.to/remojansen/data-fetching-in-react-the-functional-way-powered-by-typescript-io-ts--fp-ts-ojf)
+- [Always useMemo your context value](https://kentcdodds.com/blog/always-use-memo-your-context-value)
