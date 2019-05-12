@@ -25,3 +25,4 @@
 - [Monorepo setup with Lerna and Yarn workspaces](https://medium.com/trabe/monorepo-setup-with-lerna-and-yarn-workspaces-5d747d7c0e91)
 - [Don't Build That App!](https://formidable.com/blog/2019/no-build-step/)
 - [Easy Automatic npm Publishes](https://blog.npmjs.org/post/184553141742/easy-automatic-npm-publishes)
+- [An Overview of JavaScript Testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
