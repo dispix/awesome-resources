@@ -26,4 +26,5 @@
 - [Data fetching in React the functional way powered by TypeScript, io-ts & fp-ts](https://dev.to/remojansen/data-fetching-in-react-the-functional-way-powered-by-typescript-io-ts--fp-ts-ojf)
 - [Always useMemo your context value](https://kentcdodds.com/blog/always-use-memo-your-context-value)
 - [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
-- [useReducer vs useState in React](https://www.robinwieruch.de/react-usereducer-vs-usestate/#usestate-vs-usereducer) 
+- [useReducer vs useState in React](https://www.robinwieruch.de/react-usereducer-vs-usestate/#usestate-vs-usereducer)
+- [Cube.js, the Open Source Dashboard Framework](https://cube.dev/blog/cubejs-open-source-dashboard-framework-ultimate-guide/)
