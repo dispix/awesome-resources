@@ -30,3 +30,4 @@
 - [Cube.js, the Open Source Dashboard Framework](https://cube.dev/blog/cubejs-open-source-dashboard-framework-ultimate-guide/)
 - [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
 - [Dynamic Bézier Curves](https://www.joshwcomeau.com/posts/dynamic-bezier-curves/)
+- [React, Inline Functions, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
