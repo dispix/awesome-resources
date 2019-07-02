@@ -31,3 +31,4 @@
 - [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
 - [Dynamic Bézier Curves](https://www.joshwcomeau.com/posts/dynamic-bezier-curves/)
 - [React, Inline Functions, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
+- [The tradeoffs of CSS-in-JS](https://medium.com/free-code-camp/the-tradeoffs-of-css-in-js-bee5cf926fdb)
