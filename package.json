@@ -1,0 +1,9 @@
+{
+  "name": "awesome-resources",
+  "version": "1.0.0",
+  "description": "bunch of stuff i read online",
+  "main": "index.js",
+  "repository": "git@github.com:dispix/awesome-resources.git",
+  "author": "Octave Raimbault <me@dispix.net>",
+  "license": "MIT"
+}
