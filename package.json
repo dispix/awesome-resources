@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:dispix/awesome-resources.git",
   "author": "Octave Raimbault <me@dispix.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "add": "node ./scripts/add.js"
+  }
 }
