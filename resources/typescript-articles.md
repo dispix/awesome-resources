@@ -4,3 +4,4 @@
 - [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 - [Type aliases vs. interfaces in TypeScript-based React apps](https://medium.com/@koss_lebedev/type-aliases-vs-interfaces-in-typescript-based-react-apps-e77c9a1d5fd0)
 - [SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code](https://khalilstemmler.com/articles/solid-principles/solid-typescript/)
+- [Writing Type-Safe Polymorphic React Components](https://blog.andrewbran.ch/polymorphic-react-components/)
