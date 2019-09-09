@@ -15,8 +15,8 @@ async function validateFile(file) {
 }
 
 ;(async function write() {
-  const [, , category, title, url] = process.argv
-  const file = `./resources/${category}.md`
+  const [, , file, title, url] = process.argv
+  const category = file.slice(12, -3)
   const data = `- [${title}](${url})\n`
 
   const err = await validateFile(file)
