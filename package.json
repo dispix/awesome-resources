@@ -7,6 +7,6 @@
   "author": "Octave Raimbault <me@dispix.net>",
   "license": "MIT",
   "scripts": {
-    "add-article": "node ./scripts/add.js"
+    "article": "node ./scripts/add.js"
   }
 }
