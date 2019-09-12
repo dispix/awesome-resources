@@ -6,3 +6,4 @@
 - [The Web is still a DARPA weapon](https://medium.com/@giacomo_59737/the-web-is-still-a-darpa-weapon-31e3c3b032b8)
 - [Famous laws of software development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [Amazon's \$10B Growth Hack That Nobody Knows About](https://www.nachoanalytics.com/blog/amazons-growth-hack/)
+- [10 tips to help you drive an interview](https://medium.com/@thomasnivol/10-tips-to-help-you-drive-an-interview-a4b551c7c2ea)
