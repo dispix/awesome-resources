@@ -1,9 +1,10 @@
 const fs = require('fs')
 const util = require('util')
-const { exec } = require('child_process')
+const cp = require('child_process')
 
 const readFile = util.promisify(fs.readFile)
 const appendFile = util.promisify(fs.appendFile)
+const exec = util.promisify(cp.exec)
 
 async function validateFile(file) {
   try {
@@ -29,6 +30,6 @@ async function validateFile(file) {
 
   appendFile(file, data)
 
-  exec(`git add ${file}`)
-  exec(`git commit -m "docs(${category}): add ${title}"`)
+  await exec(`git add ${file}`)
+  await exec(`git commit -m "docs(${category}): add ${title}"`)
 })()
