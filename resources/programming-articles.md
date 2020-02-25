@@ -8,3 +8,6 @@
 - [How One Jira Ticket Made My Employer \$1MM/Month: 7 Metrics that Actually Matter](https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b)
 - [How I Eat For Free in NYC Using Python, Automation, Artificial Intelligence, and Instagram](https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10)
 - [Redux is half of a pattern (1/2)](https://dev.to/davidkpiano/redux-is-half-of-a-pattern-1-2-1hd7)
+- [A web developer creating his first game](https://medium.com/@kimkorte/a-web-developer-creating-his-first-game-68b5386d9623)
+- [A web developer creating his first game](https://medium.com/@kimkorte/a-web-developer-creating-his-first-game-68b5386d9623)
+- [A web developer creating his first game](https://medium.com/@kimkorte/a-web-developer-creating-his-first-game-68b5386d9623)
