@@ -17,7 +17,10 @@ async function validateFile(file) {
 
 ;(async function write() {
   const [, , file, title, url] = process.argv
-  const category = file.slice(12, -3)
+  const category = file
+    .split('/')
+    .pop()
+    .replace('.md', '')
   const data = `- [${title}](${url})\n`
 
   const err = await validateFile(file)
