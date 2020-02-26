@@ -6,3 +6,4 @@
 - [SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code](https://khalilstemmler.com/articles/solid-principles/solid-typescript/)
 - [Writing Type-Safe Polymorphic React Components](https://blog.andrewbran.ch/polymorphic-react-components/)
 - [Railroad Programming in TypeScript](https://itnext.io/railroad-programming-in-typescript-21d69f486f6e)
+- [Forget NodeJS! Build native TypeScript applications with Deno](https://deepu.tech/deno-runtime-for-typescript/)
