@@ -11,3 +11,4 @@
 - [A web developer creating his first game](https://medium.com/@kimkorte/a-web-developer-creating-his-first-game-68b5386d9623)
 - [A web developer creating his first game](https://medium.com/@kimkorte/a-web-developer-creating-his-first-game-68b5386d9623)
 - [A web developer creating his first game](https://medium.com/@kimkorte/a-web-developer-creating-his-first-game-68b5386d9623)
+- [How I became a better programmer](https://jlongster.com/How-I-Became-Better-Programmer)
