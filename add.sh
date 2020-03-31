@@ -1,0 +1,1 @@
+deno run --allow-read --allow-write --allow-run ./scripts/add.ts $1 $2 $3
