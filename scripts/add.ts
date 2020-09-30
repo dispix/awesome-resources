@@ -13,7 +13,7 @@ try {
   await file.write(new TextEncoder().encode(`- [${title}](${url})\n`))
   await Deno.run({ cmd: ['git', 'add', filePath] }).status()
   await Deno.run({
-    cmd: ['git', 'commit', '-m', `"docs(${category}): add ${title}"`],
+    cmd: ['git', 'commit', '-m', `docs(${category}): add ${title}`],
   }).status()
 } catch (e) {
   console.error(
