@@ -1,7 +1,8 @@
-const [filePath, title, url] = Deno.args
+const [filePath, url, ...titleArr] = Deno.args
+const title = titleArr.join(' ')
 
 if (!filePath || !title || !url) {
-  console.error(`./add.sh [file] [title] [url]`)
+  console.error(`./add.sh [file] [url][title]`)
   Deno.exit(1)
 }
 
