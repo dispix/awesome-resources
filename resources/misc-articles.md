@@ -7,3 +7,4 @@
 - [Famous laws of software development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [Amazon's \$10B Growth Hack That Nobody Knows About](https://www.nachoanalytics.com/blog/amazons-growth-hack/)
 - [10 tips to help you drive an interview](https://medium.com/@thomasnivol/10-tips-to-help-you-drive-an-interview-a4b551c7c2ea)
+- [Someone attacked our company](https://usefathom.com/blog/ddos-attack)
